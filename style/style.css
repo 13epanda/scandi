@@ -641,6 +641,10 @@ body {
     margin-right: 20px;
 }
 
+.request__wrapper iframe {
+    border: none;
+}
+
 .request__form-wrap h2 {
     margin-top: 0;
     margin-bottom: 24px;
@@ -656,6 +660,7 @@ body {
 .request__form-wrap p {
     margin-top: 0;
     margin-bottom: 9px;
+    margin-right: 55px;
     font-family: "Montserrat", "Arial", sans-serif;
     font-style: normal;
     font-weight: 400;
